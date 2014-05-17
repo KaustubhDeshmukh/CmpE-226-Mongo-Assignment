@@ -1,0 +1,368 @@
+{
+    "TVs": [
+        {
+            "Name": "Samsung UN32EH5300 32-Inch 1080p 60 Hz Smart LED HDTV ",
+            "Resoulution": "1080p",
+            "TV Display Technology": "LED-lit",
+            "Dimensions": "19.6 x 29.1 x 7.6 inches",
+            "HDMI ports": 3,
+            "Price": "$309.99",
+            "Shipping": "Prime",
+            "Item Weight": "14.3 pounds"
+        },
+        {
+            "Name": "Samsung UN22F5000 22-Inch 1080p 60Hz Slim LED HDTV",
+            "TV Display Technology": "LED-lit",
+            "Dimensions": "19.6 x 29.1 x 7.6 inches",
+            "HDMI ports": 3,
+            "Price": "$500.23",
+            "Shipping": "Standard",
+            "Customer reviews": "4.5/5"
+        },
+        {
+            "Name": "VIZIO E241i-B1 24-Inch 1080p 60Hz Smart LED HDTV (Black)",
+            "TV Display Technology": "LED-lit",
+            "Dimensions": "19.6 x 29.1 x 7.6 inches",
+            "HDMI ports": 3,
+            "Price": "$500.23",
+            "Shipping": "Standard",
+            "Item Weight": "14.3 pounds"
+        },
+        {
+            "Name": "Sharp LC-70LE650U 70-inch Aquos HD 1080p 120Hz Smart LED TV",
+            "TV Display Technology": "LED-lit",
+            "Dimensions": "19.6 x 29.1 x 7.6 inches",
+            "HDMI ports": 3,
+            "Price": "$500.23",
+            "Shipping": "Standard"
+        },
+        {
+            "Name": "LG Electronics 39LN5300 39-Inch 1080p 60Hz LED TV",
+            "TV Display Technology": "LED-lit",
+            "Dimensions": "19.6 x 29.1 x 7.6 inches",
+            "HDMI ports": 3,
+            "Price": "$700.23",
+            "Shipping": "Standard",
+            "Rating": "4.34/5"
+        },
+        {
+            "Name": "Toshiba 40L2400U 40-Inch 1080p 120Hz LED HDTV (Black/Gun Metal)",
+            "TV Display Technology": "LED-lit",
+            "Dimensions": "19.6 x 29.1 x 7.6 inches",
+            "HDMI ports": 3,
+            "Price": "$500.23",
+            "Shipping": "Standard",
+            "Motion Sensor": "Gesture control"
+        },
+        {
+            "Name": "VIZIO M601d-A3R 60-Inch 1080p 240Hz 3D Smart LED HDTV",
+            "TV Display Technology": "LED-lit",
+            "Dimensions": "19.6 x 29.1 x 7.6 inches",
+            "HDMI ports": 3,
+            "Price": "$500.23",
+            "Shipping": "Standard",
+            "Customer positive reviews": "4330/6500"
+        },
+        {
+            "Name": "Sonax FB-2600 Fiji 60-Inch TV Component Bench, Ravenwood Black",
+            "TV Display Technology": "LED-lit",
+            "Dimensions": "19.6 x 29.1 x 7.6 inches",
+            "HDMI ports": 3,
+            "Price": "$670.50",
+            "Shipping": "Standard",
+            "Item weight": "15.45 pounds"
+        },
+        {
+            "Name": "LG Electronics 42LN5300 42-Inch 1080p 60Hz LED TV",
+            "TV Display Technology": "LED-lit",
+            "Dimensions": "19.6 x 29.1 x 7.6 inches",
+            "HDMI ports": 3,
+            "Price": "$645.90",
+            "Shipping": "Standard"
+        },
+        {
+            "Name": "Sony KDL40W600B 40-Inch 1080p 60Hz Smart LED TV ",
+            "TV Display Technology": "LED-lit",
+            "Dimensions": "19.6 x 29.1 x 7.6 inches",
+            "HDMI ports": 3,
+            "Price": "$345.98",
+            "Shipping": "Standard"
+        }
+    ],
+    "Books": [
+        {
+            "Title": "Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back",
+            "Author": "Todd Burpo",
+            "Publisher": "Thomas Nelson",
+            "Publication date": "November 2, 2010",
+            "Pages": 163,
+            "Price": "$9.78",
+            "Best Seller Rank": "#21"
+        },
+        {
+            "Title": "Capital in the Twenty-First Century",
+            "Author": "Thomas Piketty",
+            "Publisher": "Thomas Nelson",
+            "Publication date": "March 2, 2009",
+            "Pages": 384,
+            "Price": "$19.78",
+            "Best Seller Rank": "#76",
+            "ISBN-13": "978-0674430006"
+        },
+        {
+            "Title": "A Fighting Chance",
+            "Author": "Elizabeth Warren",
+            "Publisher": "Metropolitan Books",
+            "Publication date": "January 2, 1989",
+            "Pages": 450,
+            "Price": "$39.78",
+            "Best Seller Rank": "#128",
+            "Shipping Weight": "1.4 pounds"
+        },
+        {
+            "Title": "Flash Boys: A Wall Street Revolt",
+            "Author": "Michael Lewis",
+            "Publisher": "W. W. Norton & Company",
+            "Publication date": "August 13, 1987",
+            "Pages": 239,
+            "Price": "$109.78",
+            "Best Seller Rank": "#17",
+            "ISBN-13": "978-0393244663"
+        },
+        {
+            "Title": "Dark Pools: The Rise of the Machine Traders and the Rigging of the U.S. Stock Market",
+            "Author": "Scott Patterson",
+            "Publisher": "Crown Business;",
+            "Publication date": "June 23, 2010",
+            "Pages": 349,
+            "Price": "$129",
+            "Best Seller Rank": "#15"
+        },
+        {
+            "Title": "Algorithmic Trading and DMA: An introduction to direct access trading strategies",
+            "Author": "Barry Johnson",
+            "Publisher": "4Myeloma Press",
+            "Publication date": "March 28, 2001",
+            "Pages": 592,
+            "Price": "$60",
+            "Best Seller Rank": "#87",
+            "url": "http://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Barry+Johnson&search-alias=books&text=Barry+Johnson&sort=relevancerank"
+        },
+        {
+            "Title": "The Problem of HFT - Collected Writings on High Frequency Trading & Stock Market Structure Reform",
+            "Author": "Haim Bodek",
+            "Publisher": "CreateSpace Independent Publishing Platform",
+            "Publication date": "February 21, 2006",
+            "Pages": 112,
+            "Price": "$90",
+            "Best Seller Rank": "#57,382 ",
+            "ISBN-13": "978-1481978354"
+        },
+        {
+            "Title": "Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading",
+            "Author": "Joel Hasbrouck",
+            "Publisher": "Oxford University Press",
+            "Publication date": "September 14, 1983",
+            "Pages": 208,
+            "Price": "$230",
+            "Best Seller Rank": "#1249",
+            "ISBN-13": "978-0195301649"
+        },
+        {
+            "Title": "Analysis of Financial Time Series",
+            "Author": " Ruey S. Tsay",
+            "Publisher": "Wiley; 3 edition",
+            "Publication date": "November 2, 2010",
+            "Pages": 400,
+            "Price": "$230",
+            "Best Seller Rank": "#8765",
+            "uri": "http://www.amazon.com/Analysis-Financial-Time-Series-Ruey/dp/0470414359/ref=pd_sim_b_6?ie=UTF8&refRID=1G5G9R3N2KAZAYV12N3G"
+        },
+        {
+            "Title": "Java, A Beginner's Guide, 5th Edition",
+            "Author": "Todd Burpo",
+            "Publisher": "McGraw-Hill Osborne",
+            "Publication date": "May 16, 2014",
+            "Pages": 540,
+            "Price": "$412",
+            "Best Seller Rank": "#8712",
+            "uri": "http://www.amazon.com/Java-Beginners-Guide-Herbert-Schildt/dp/0071606327/ref=sr_1_1?s=books&ie=UTF8&qid=1400213307&sr=1-1&keywords=java",
+            "ISBN-13": "978-0071606325"
+        }
+    ],
+    "Refrigerators": [
+        {
+            "Name": "Haier HNSE04 4.0 Cubic Feet Refrigerator/Freezer",
+            "Color": "White",
+            "Capacity": "1 liter",
+            "Price": "$169.00",
+            "Dimensions": "18.9 x 33.4 x 20.9 inches",
+            "Weight": "55.1 pounds",
+            "Shipping": "Prime"
+        },
+        {
+            "Name": "Danby DAR259BL 2.5-Cu. Ft. Designer Compact All Refrigerator, Black",
+            "Color": "Gray",
+            "Capacity": "10 liter",
+            "Price": "$500.23",
+            "Dimensions": "29.9 x 43.4 x 20.9 inches",
+            "Weight": "100 pounds",
+            "Shipping": "Standard",
+            "Certification": "energy_star"
+        },
+        {
+            "Name": "Frigidaire FFHB2740PS 26.7 Cu. Ft. Stainless Steel French Door Refrigerator",
+            "Color": "Stainless Steel",
+            "Capacity": "8 liter",
+            "Price": "$1485.89",
+            "Dimensions": "38.9 x 83.4 x 20.9 inches",
+            "Weight": "155.1 pounds",
+            "Shipping": "Standard"
+        },
+        {
+            "Name": "Frigidaire FGHB2844L Energy Star 27.8 Cubic Foot French Door Refrigerator",
+            "Color": "Gray",
+            "Capacity": "12 liter",
+            "Price": "$1649.00",
+            "Dimensions": "88.9 x 53.4 x 20.9 inches",
+            "Weight": "195.1 pounds",
+            "Shipping": "Standard",
+            "Uri": "http://www.amazon.com/Frigidaire-Gallery-FGHB2844LF-Refrigerator-Stainless/dp/B0041J411K/ref=pd_sim_sbs_la_5?ie=UTF8&refRID=0ATVRGTDQC3BHGKDB463"
+        },
+        {
+            "Name": "LG LFX28968ST 27.6 Cu. Ft. Stainless Steel French Door Refrigerator",
+            "Color": "White",
+            "Capacity": "11 liter",
+            "Price": "$1980.00",
+            "Dimensions": "35.4 x 35.8 x 69.8 inches",
+            "Weight": "287 pounds",
+            "Shipping": "Prime"
+        },
+        {
+            "Name": "LG LFX29945ST 29.0 Cu. Ft. Stainless Steel French Door Refrigerator",
+            "Color": "Black",
+            "Capacity": "13 liter",
+            "Price": "$2199.00",
+            "Dimensions": "31.4 x 25.8 x 69.8 inches",
+            "Weight": "377 pounds",
+            "Shipping": "Prime",
+            "uri": "http://www.amazon.com/LG-LFX29945ST-Stainless-French-Refrigerator/dp/B00G3ET3N2/ref=pd_sim_sbs_la_7?ie=UTF8&refRID=176T0RKBQ82348X82ZJW"
+        },
+        {
+            "Name": "Samsung RF4287 28 Cubic Foot French Door Refrigerator with 4 Doors and Integrated Water & Ice",
+            "Color": "Gray",
+            "Capacity": "16 liter",
+            "Price": "$2699",
+            "Dimensions": "36.2 x 35.8 x 69.9 inches",
+            "Weight": "361 pounds",
+            "Shipping": "Prime",
+            "Model Info": "RF4287HARS"
+        },
+        {
+            "Name": "GE PFE29PSDSS Profile 28.6 Cu. Ft. Stainless Steel French Door Refrigerator - Energy Star",
+            "Color": "Metallic gray",
+            "Capacity": "13 liter",
+            "Price": "$2299.00",
+            "Dimensions": "0.4 x 74 x 39  inches",
+            "Weight": "390 pounds",
+            "Shipping": "Prime",
+            "Form Factor": "French Door, Stand alone"
+        },
+        {
+            "Name": "GE PYE23KSDSS Profile 23.1 Cu. Ft. Stainless Steel Counter Depth French Door Refrigerator - Energy Star",
+            "Color": "Metallic black",
+            "Capacity": "13 liter",
+            "Price": "$2000",
+            "Dimensions": "31.4 x 25.8 x 69.8 inches",
+            "Weight": "362 pounds",
+            "Shipping": "Prime",
+            "uri": "http://www.amazon.com/GE-PYE23KSDSS-Profile-Stainless-Refrigerator/dp/B00C9YRLR0/ref=pd_sbs_la_7?ie=UTF8&refRID=1AWVKCD7715QK7GYAMWT"
+        }
+    ],
+    "Perfumes": [
+        {
+            "Name": "NAUTICA For Men By NAUTICA",
+            "For": "Men",
+            "Quantity": "4.1 ounces",
+            "Selling Price": "$10.47",
+            "Discount": "$37.03",
+            "List Price": "$47.50",
+            "Shipping": "Standard , Free"
+        },
+        {
+            "Name": "Swiss Army Eau de Toilette for Men by Swiss Army",
+            "For": "Men",
+            "Quantity": "3.9 ounces",
+            "Selling Price": "$55.47",
+            "Discount": "$40.03",
+            "List Price": "$15.50",
+            "Shipping": "Prime , Free"
+        },
+        {
+            "Name": "Heiress Perfume by Paris Hilton for women Personal Fragrances",
+            "For": "Women",
+            "Quantity": "4.5 ounces",
+            "Discount": "$37.03",
+            "Price": "$47.50",
+            "Shipping": "Prime"
+        },
+        {
+            "Name": "360 Red Cologne by Perry Ellis for men Colognes",
+            "For": "Women",
+            "Quantity": "5.4 ounces",
+            "Selling Price": "$10.47",
+            "Discount": "$37.03",
+            "List Price": "$47.50",
+            "Shipping": "Prime",
+            "Url": "http://www.amazon.com/Perry-Ellis-Toilette-Spray-Ounces/dp/B000C1W38O/ref=pd_sim_bt_5?ie=UTF8&refRID=065S08P624BE89XG4Z13"
+        },
+        {
+            "Name": "Nautica Blue Eau De Toilette Spray for Men, 3.4 fluid ounce",
+            "For": "Men",
+            "Quantity": "6 ounces",
+            "Selling Price": "$100.47",
+            "Discount": "$37.03",
+            "List Price": "$137.50",
+            "Shipping": "Prime",
+            "Url": "http://www.amazon.com/Nautica-Toilette-Spray-fluid-ounce/dp/B0022V2PKI/ref=pd_sim_hpc_11?ie=UTF8&refRID=0XQ8EW94G9Z27B73TJV4"
+        },
+        {
+            "Name": "Cool Water By Zino Davidoff For Women. Deodorant Spray 3.4 Oz.",
+            "For": "Women",
+            "Quantity": "3.4 ounces",
+            "Selling Price": "$14.40",
+            "Discount": "$13.10",
+            "List Price": "$27.50",
+            "Shipping": "Prime , Free"
+        },
+        {
+            "Name": "Voyage Cologne by Nautica for men Colognes",
+            "For": "Men",
+            "Quantity": "1.7 ounces",
+            "Selling Price": "$15.84",
+            "Discount": "$28.16",
+            "List Price": "$44.00",
+            "Shipping": "Standard , Free"
+        },
+        {
+            "Name": "360 Red Cologne by Perry Ellis for men Colognes",
+            "For": "Men",
+            "Quantity": "3.9 ounces",
+            "Selling Price": "$10.47",
+            "Discount": "$37.03",
+            "List Price": "$47.50",
+            "Shipping": "Prime , Free",
+            "Url": "http://www.amazon.com/Perry-Ellis-Toilette-Spray-Ounces/dp/B000C1W38O/ref=pd_sim_bt_6?ie=UTF8&refRID=1X5P71RWFKTTV9S6AXBN"
+        },
+        {
+            "Name": "360 WHITE For Women By PERRY ELLIS Eau de Parfum Spray",
+            "For": "Men",
+            "Quantity": "3.4 ounces",
+            "List Price": "$30.00",
+            "Price": "$20.95",
+            "Savings": "$9.05 (30%)",
+            "Shipping": "Prime , Free",
+            "Url": "http://www.amazon.com/WHITE-Women-PERRY-ELLIS-Parfum/dp/B000C2YXVI/ref=pd_sim_hpc_16?ie=UTF8&refRID=1Z7Z6489B3BWKA87TZBT"
+        }
+    ]
+}

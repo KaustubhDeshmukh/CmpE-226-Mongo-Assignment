@@ -1,0 +1,38 @@
+a:hover{
+text-decoration: none;
+}
+
+.navbar-background{
+background-color: white;	
+}
+
+.text-prominent{
+	font-size: large;
+	color: blue;
+	font-family: sans serif;
+	font-weight: bold;
+}
+
+.text-prominent-large{
+	font-size: xx-large;
+	color: black;
+	font-family: sans serif;
+	font-weight: bold;
+}
+
+.floatr{
+	
+	float:right;
+}
+
+label.valid {
+  
+}
+label.error {
+  font-weight: bold;
+  color: red;
+  padding: 2px 8px;
+  margin-top: 2px;
+}
+
+
